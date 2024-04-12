@@ -1,0 +1,10 @@
+{
+    "clangd.arguments": [
+        "--header-insertion=never"
+    ],
+
+    "inlayHint.enableParameter": false,
+    "jedi.workspace.environmentPath": "/Users/wood/Desktop/torch/torch-python/",
+    "inlayHint.display": false,
+    "snippets.ultisnips.pythonPrompt": false
+}
