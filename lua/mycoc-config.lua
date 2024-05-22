@@ -1,4 +1,4 @@
-vim.g.coc_global_extensions = {'coc-jedi','coc-tsserver', 'coc-clangd', 'coc-pairs', 'coc-snippets', 'coc-cmake'}
+vim.g.coc_global_extensions = {'coc-json', 'coc-jedi','coc-tsserver', 'coc-clangd', 'coc-pairs', 'coc-snippets', 'coc-cmake'}
 
 vim.g.coc_snippet_next = '<tab>'
 vim.g.coc_snippet_prev = '<s-tab>'
