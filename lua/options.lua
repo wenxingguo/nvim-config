@@ -46,7 +46,7 @@ end
 
 --vim.cmd "set background=dark"
 vim.cmd "colorscheme vim"
---vim.cmd "set termguicolors"
+vim.cmd "set termguicolors"
 vim.cmd "hi CursorLine cterm=NONE ctermbg=240 guibg=NONE guifg=NONE gui=NONE"
 vim.cmd	"hi CursorLineNr ctermfg=5* ctermbg=3* cterm=bold"
 vim.cmd "hi PMenu ctermfg=0 ctermbg=242 guifg=black guibg=darkgrey"
